@@ -1,0 +1,101 @@
+Fish and chips
+Sandwich
+Pita
+Hamburger
+Fried chicken
+French fries
+Onion ring
+Chicken nugget
+Taco
+Pizza
+Hot dog
+Ice cream
+Salad
+White bread
+Wheat bread
+grain bread
+Rye bread
+Hamburger bun
+Croissant
+Swiss roll
+Pretzel
+Bagel
+Donut
+Roll
+Breadstick
+baguette
+Apple
+Watermelon
+Orange
+Pear
+Cherry
+Strawberry
+Nectarine
+Grape
+Mango
+Blueberry
+Pomegranate
+Carambola
+Plum
+Banana
+Raspberry
+Mandarin
+Jackfruit
+Papaya
+Kiwi
+Pineapple
+Lime
+Lemon
+Apricot
+Grapefruit
+Melon
+Coconut
+Avocado
+Peach
+Corn
+Mushroom
+Broccoli
+Cucumber
+Red pepper
+Pineapple
+Tomato
+Swede
+Carrot
+Brussels sprout
+Pumpkin
+Cabbage
+Potato
+Eggplant
+Sweet potato
+Turnip
+Courgette
+Green chilli
+Onion
+Lettuce
+Radish
+Pea
+Asparagus
+Celery
+Green pepper
+French beans
+Spinach
+Beetroot
+Red chillies
+Bean
+Cilantro
+Artichoke
+Rosemary
+Bay leaves
+Mint leaves
+Basil
+Clove
+Olive
+Shallot
+Turmeric
+Garlic
+Ginger
+Onion
+green onions
+Lemongrass
+Chives
+Green chili

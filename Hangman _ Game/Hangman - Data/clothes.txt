@@ -1,0 +1,66 @@
+Shirt
+Pants
+Trousers
+Shorts
+Belt
+Buckle
+Button
+Zipper
+wallet
+cap
+Tie
+Sole
+Boots
+Sandals
+Suit
+Vest
+bow tie
+boxer shorts
+overalls
+swimming trunks
+Dress
+Skirt
+Blouse
+Scarf
+Evening gown
+Nightgown
+nightie (nightdress)
+Scarf
+knickers
+Purse
+Jewellery
+tights
+Necklace
+Earring
+handbag
+Bracelet
+Slip
+Bra
+Panties
+Stockings
+Ring
+Coat
+Jacket
+Sweater
+track suit
+Hood
+Gloves
+Scarf
+Ear muffs
+Pocket
+Top
+Collar
+T-shirt
+Jeans
+Pyjamas
+sunglasses
+Underpants
+Slipper
+Hat
+Socks
+Bathrobe
+Sleeve
+Size
+Shoe
+Shoelace
+nappy
